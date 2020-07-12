@@ -5,7 +5,7 @@ sysrc linux_enable=yes
 
 #reboot
 
-pkg install git 
+pkg install -y git 
 
 cd
 
