@@ -1,4 +1,5 @@
 # freebsdkde - Install KDE Xorg NVidia
+#Run as su
 
 sysrc linux_enable=yes
 
